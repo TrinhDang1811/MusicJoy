@@ -7,13 +7,6 @@
 <!-- Title -->
 <h1 align="center"><b>IT008.N13 Lập trình trực quan</b></h1>
 
-
-
-## BẢNG MỤC LỤC
-* [ Giới thiệu môn học](#gioithieumonhoc)
-* [ Giảng viên hướng dẫn](#giangvien)
-* [ Đồ án môn học](#doan)
-* [ Một số tính năng chính của MusicJoy](#tinhnang)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Lập trình trực quan
